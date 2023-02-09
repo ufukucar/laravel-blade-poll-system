@@ -10,9 +10,7 @@ You can see the results with bar, donuts and pie charts. ( Used Chart.js )
 
 You can make CRUD operations also.
 
-Ok, simple and educational..
+Simple and educational..
 
-May be it can be improved..
-
-Thanks.
+May be it can be improved.
 
